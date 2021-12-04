@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**hauqxngo/hauqxngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Hau Ngo - a Software Developer, Basketball Trainer, and Film Photographer!
 
-Here are some ideas to get you started:
+- 🤓 I’m currently learning React, Data Structures & Algorithms
+- 👩🏻‍💻 I’m looking for my first role as a developer
+- 💬 Ask me about Vietnam, where I grow up 
+- 📩 Reach me at: hauqxngo@gmail.com
+- 👩🏻‍💼 Pronouns: She/Her
+- ⚡ Fun fact: I played for the Vietnam basketball team when I was 16
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats:
+
+ <img align="center" alt="Hau Ngo's GitHub Stats" src="https://github-readme-stats-lake-five.vercel.app/api?username=hauqxngo&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hauqxngo&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+
+
+## Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" src="https://img.icons8.com/doodle/36/000000/linkedin--v2.png">][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/hauqxngo/
