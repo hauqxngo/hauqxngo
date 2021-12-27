@@ -4,7 +4,7 @@
 
 - 🤓 I’m currently learning React, Data Structures & Algorithms
 - 👩🏻‍💻 I’m looking for my first role as a developer
-- 💬 Ask me about Vietnam, where I grow up 
+- 💬 Ask me about Vietnam, where I grew up 
 - 📩 Reach me at: hauqxngo@gmail.com
 - 👩🏻‍💼 Pronouns: She/Her
 - ⚡ Fun fact: I played for the Vietnam basketball team when I was 16
