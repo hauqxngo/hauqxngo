@@ -2,7 +2,7 @@
 
 ## I'm Hau Ngo - a Software Developer, Basketball Trainer, and Film Photographer!
 
-- 🤓 I’m currently learning React, Data Structures & Algorithms
+- 🤓 I’m currently learning Data Structures & Algorithms
 - 👩🏻‍💻 I’m looking for my first role as a developer
 - 💬 Ask me about Vietnam, where I grew up 
 - 📩 Reach me at: hauqxngo@gmail.com
