@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Hau Ngo - a Software Developer, Basketball Trainer, and Film Photographer!
+## You can call me Holly!
 
 - 🤓 I’m currently learning Data Structures & Algorithms
 - 👩🏻‍💻 I’m looking for my first role as a developer
